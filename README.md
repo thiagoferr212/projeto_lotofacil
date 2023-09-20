@@ -14,40 +14,15 @@ Para rodar este projeto, você precisará do seguinte:
 
 Siga as instruções abaixo para rodar o projeto:
 
-1. Clone o repositório para a sua máquina local usando o seguinte comando:
-
-git clone https://github.com/seu-usuario/projeto-exemplo.git
-
-arduino
-Copy code
-
-2. Navegue até o diretório do projeto:
-
-cd projeto-exemplo
-
-markdown
-Copy code
-
-3. Compile o código-fonte usando o seguinte comando:
-
-javac Main.java
-
-markdown
-Copy code
-
-4. Execute o programa Java:
-
-java Main
-
-shell
-Copy code
-
-Isso iniciará o programa e você verá a saída no console.
+1. Clone o repositório para a sua máquina local.
+2. Navegue até o diretório do projeto.
+3. Compile o código-fonte.
+4. Execute o programa Java para ver a saída no console.
 
 ## Versão do JDK
 
-Este projeto foi desenvolvido usando o Java Development Kit (JDK) versão 11.
+Este projeto foi desenvolvido usando o Java Development Kit (JDK) versão 17.0.7.
 
 ## Bibliotecas Utilizadas
 
-Este projeto não utiliza bibliotecas externas. É um exemplo simples de um programa Java independente.
+Este projeto não utiliza bibliotecas externas.
