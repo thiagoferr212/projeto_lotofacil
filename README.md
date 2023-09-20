@@ -25,4 +25,6 @@ Este projeto foi desenvolvido usando o Java Development Kit (JDK) versão 17.0.7
 
 ## Bibliotecas Utilizadas
 
-Este projeto não utiliza bibliotecas externas.
+java.util.Scanner;
+java.util.Random;
+java.io.IOException;
